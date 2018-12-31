@@ -1,0 +1,2 @@
+C:\Users\GeorgeCronin\Desktop\Back\Templates\inspinia-3-master\ASPNET_MVC5_Full_Version\Accounts.Services\obj\Debug\Accounts.Services.csprojResolveAssemblyReference.cache
+C:\Users\GeorgeCronin\Desktop\Back\Templates\inspinia-3-master\ASPNET_MVC5_Full_Version\Accounts.Services\obj\Debug\Accounts.Services.csproj.CoreCompileInputs.cache

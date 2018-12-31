@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1723be2eab4447cabf3f4e5fff9e0964" Name="Diagram1">
+        <EntityTypeShape EntityType="AccountsDbModel.sysdiagram" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_AccountGroup" Width="1.5" PointX="0.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_AccountLedger" Width="1.5" PointX="3" PointY="25.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_AdditionalCost" Width="1.5" PointX="5.25" PointY="28.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_AdvancePayment" Width="1.5" PointX="8.25" PointY="27.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Area" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_BankReconciliation" Width="1.5" PointX="16.5" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_BarcodeSettings" Width="1.5" PointX="13.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Batch" Width="1.5" PointX="11.25" PointY="58.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Bom" Width="1.5" PointX="13.5" PointY="49.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_BonusDeduction" Width="1.5" PointX="11.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Brand" Width="1.5" PointX="13.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_BudgetDetails" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_BudgetMaster" Width="1.5" PointX="0.75" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Company" Width="1.5" PointX="9" PointY="69.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_CompanyPath" Width="1.5" PointX="13.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ContraDetails" Width="1.5" PointX="5.25" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ContraMaster" Width="1.5" PointX="5.25" PointY="32.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Counter" Width="1.5" PointX="0.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_CreditNoteDetails" Width="1.5" PointX="11.25" PointY="28.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_CreditNoteMaster" Width="1.5" PointX="9" PointY="64.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Currency" Width="1.5" PointX="6.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DailyAttendanceDetails" Width="1.5" PointX="11.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DailyAttendanceMaster" Width="1.5" PointX="2.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DailySalaryVoucherDetails" Width="1.5" PointX="16.5" PointY="22.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DailySalaryVoucherMaster" Width="1.5" PointX="8.25" PointY="21.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DebitNoteDetails" Width="1.5" PointX="8.25" PointY="34.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DebitNoteMaster" Width="1.5" PointX="6" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DeliveryNoteDetails" Width="1.5" PointX="13.5" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DeliveryNoteMaster" Width="1.5" PointX="11.25" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Designation" Width="1.5" PointX="6.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Details" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_DetailsCopy" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Employee" Width="1.5" PointX="9" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ExchangeRate" Width="1.5" PointX="9" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Fields" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_FieldsCopy" Width="1.5" PointX="5.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_FinancialYear" Width="1.5" PointX="9" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Form" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_FormCopy" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Godown" Width="1.5" PointX="11.25" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Holiday" Width="1.5" PointX="15.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_JournalDetails" Width="1.5" PointX="11.25" PointY="33" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_JournalMaster" Width="1.5" PointX="17.25" PointY="31.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_LedgerPosting" Width="1.5" PointX="14.25" PointY="27.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Master" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_MasterCopy" Width="1.5" PointX="15.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_MaterialReceiptDetails" Width="1.5" PointX="15.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_MaterialReceiptMaster" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ModelNo" Width="1.5" PointX="0.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_MonthlySalary" Width="1.5" PointX="2.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_MonthlySalaryDetails" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PartyBalance" Width="1.5" PointX="17.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PayHead" Width="1.5" PointX="17.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PaymentDetails" Width="1.5" PointX="17.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PaymentMaster" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PDCClearanceMaster" Width="1.5" PointX="19.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PDCPayableMaster" Width="1.5" PointX="19.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PDCReceivableMaster" Width="1.5" PointX="19.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PhysicalStockDetails" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PhysicalStockMaster" Width="1.5" PointX="21.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PriceList" Width="1.5" PointX="0.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PricingLevel" Width="1.5" PointX="0.75" PointY="28.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Privilege" Width="1.5" PointX="21.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Product" Width="1.5" PointX="9" PointY="56.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ProductGroup" Width="1.5" PointX="21.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseBillTax" Width="1.5" PointX="21.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseDetails" Width="1.5" PointX="18.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseMaster" Width="1.5" PointX="20.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseOrderDetails" Width="1.5" PointX="22.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseOrderMaster" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseReturnBilltax" Width="1.5" PointX="23.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseReturnDetails" Width="1.5" PointX="23.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_PurchaseReturnMaster" Width="1.5" PointX="23.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_QuickLaunchItems" Width="1.5" PointX="24.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_QuickLaunchItemsToCopy" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Rack" Width="1.5" PointX="11.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ReceiptDetails" Width="1.5" PointX="25.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ReceiptMaster" Width="1.5" PointX="25.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_RejectionInDetails" Width="1.5" PointX="25.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_RejectionInMaster" Width="1.5" PointX="24.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_RejectionOutDetails" Width="1.5" PointX="25.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_RejectionOutMaster" Width="1.5" PointX="26.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Reminder" Width="1.5" PointX="27.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Role" Width="1.5" PointX="27.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Route" Width="1.5" PointX="0.75" PointY="32.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalaryPackage" Width="1.5" PointX="27.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalaryPackageDetails" Width="1.5" PointX="27.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalaryVoucherDetails" Width="1.5" PointX="27.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalaryVoucherMaster" Width="1.5" PointX="28.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesBillTax" Width="1.5" PointX="28.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesDetails" Width="1.5" PointX="29.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesMaster" Width="1.5" PointX="29.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesOrderDetails" Width="1.5" PointX="29.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesOrderMaster" Width="1.5" PointX="19.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesQuotationDetails" Width="1.5" PointX="21.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesQuotationMaster" Width="1.5" PointX="26.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesReturnBillTax" Width="1.5" PointX="28.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesReturnDetails" Width="1.5" PointX="30.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SalesReturnMaster" Width="1.5" PointX="30.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Service" Width="1.5" PointX="31.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ServiceCategory" Width="1.5" PointX="31.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ServiceDetails" Width="1.5" PointX="31.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_ServiceMaster" Width="1.5" PointX="31.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Settings" Width="1.5" PointX="31.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SettingsToCopy" Width="1.5" PointX="23.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Size" Width="1.5" PointX="32.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_StandardRate" Width="1.5" PointX="32.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_StockJournalDetails" Width="1.5" PointX="32.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_StockJournalMaster" Width="1.5" PointX="32.75" PointY="32.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_StockPosting" Width="1.5" PointX="33.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_SuffixPrefix" Width="1.5" PointX="9" PointY="39.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Tax" Width="1.5" PointX="33.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_TaxDetails" Width="1.5" PointX="33.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_Unit" Width="1.5" PointX="11.25" PointY="37.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_UnitConvertion" Width="1.5" PointX="11.25" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_User" Width="1.5" PointX="9" PointY="45" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_VoucherType" Width="1.5" PointX="9" PointY="49.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_VoucherTypeTax" Width="1.5" PointX="33.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_VoucherTypeToCopy" Width="1.5" PointX="13.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.tbl_CurrencyToCopy" Width="1.5" PointX="33.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.CashInOutFlow1" Width="1.5" PointX="28.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.ViewCashBank" Width="1.5" PointX="34.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AccountsDbModel.vwStockQuery" Width="1.5" PointX="21.75" PointY="34.75" IsExpanded="true" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AccountLedger_tbl_AccountGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AccountLedger_tbl_PricingLevel" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AccountLedger_tbl_Route" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdditionalCost_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdvancePayment_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraDetails_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraMaster_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_CreditNoteDetails_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailySalaryVoucherMaster_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DebitNoteDetails_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalDetails_tbl_JournalMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_LedgerPosting_tbl_AccountLedger" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdditionalCost_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdvancePayment_tbl_AdvancePayment" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdvancePayment_tbl_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdvancePayment_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdvancePayment_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_AdvancePayment_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_BankReconciliation_tbl_LedgerPosting" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Batch_tbl_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_Batch" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Bom_tbl_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Bom_tbl_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_BonusDeduction_tbl_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_BudgetDetails_tbl_BudgetMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Company_tbl_Currency" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraDetails_tbl_ContraDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraDetails_tbl_ContraDetails1" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraDetails_tbl_ContraMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraDetails_tbl_ExchangeRate" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraMaster_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraMaster_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraMaster_tbl_User" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ContraMaster_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_CreditNoteDetails_tbl_CreditNoteMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_CreditNoteDetails_tbl_ExchangeRate" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_CreditNoteMaster_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_CreditNoteMaster_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_CreditNoteMaster_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_ExchangeRate_tbl_Currency" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailyAttendanceDetails_tbl_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailySalaryVoucherDetails_tbl_DailySalaryVoucherMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailySalaryVoucherDetails_tbl_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailySalaryVoucherMaster_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailySalaryVoucherMaster_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DailySalaryVoucherMaster_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DebitNoteDetails_tbl_DebitNoteMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DebitNoteDetails_tbl_ExchangeRate" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DebitNoteMaster_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DebitNoteMaster_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DebitNoteMaster_tbl_User" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_DeliveryNoteDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_DeliveryNoteMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_Godown" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_Rack" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_Unit" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteDetails_tbl_UnitConvertion" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_DeliveryNoteMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_ExchangeRate" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_PricingLevel" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_User" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_DeliveryNoteMaster_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Employee_tbl_Designation" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Details_tbl_Master" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalDetails_tbl_ExchangeRate" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_Fields_tbl_Form" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalMaster_tbl_FinancialYear" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalDetails_tbl_JournalDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalMaster_tbl_SuffixPrefix" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalMaster_tbl_User" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_JournalMaster_tbl_VoucherType" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_LedgerPosting_tbl_LedgerPosting" ManuallyRouted="false" />
+        <AssociationConnector Association="AccountsDbModel.FK_tbl_LedgerPosting_tbl_VoucherType" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
